@@ -1,0 +1,1 @@
+export const collegeName = "Delhi Technological University";
